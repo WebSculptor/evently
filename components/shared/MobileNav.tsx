@@ -32,7 +32,7 @@ const MobileNav = () => {
             height={38}
             priority
           />
-          <Separator className="border border-gray-50" />
+          <Separator className="border border-grey-50" />
 
           <NavItems />
         </SheetContent>
